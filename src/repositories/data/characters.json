@@ -1,0 +1,335 @@
+[
+  {
+    "name": "Одін",
+    "name_original": "Óðinn",
+    "name_english": "Odin",
+    "description": "Один з найвищих богів у скандинавській міфології, батько всіх богів і правитель Асгарду.",
+    "aliases": ["Allfather", "Wotan", "Hroptatyr"],
+    "images": ["odin1.jpg", "odin2.jpg"],
+    "tags": ["Боги", "Асгард", "Верховний бог"]
+  },
+  {
+    "name": "Тор",
+    "name_original": "Þórr",
+    "name_english": "Thor",
+    "description": "Бог грому, блискавки, сили і війни, син Одіна і Фрігг, захисник людей і богів.",
+    "aliases": ["Thunderer", "Vingthor", "Hlorridi"],
+    "images": ["thor1.jpg", "thor2.jpg"],
+    "tags": ["Боги", "Грім", "Захисник"]
+  },
+  {
+    "name": "Локі",
+    "name_original": "Loki",
+    "name_english": "Loki",
+    "description": "Бог обману і хитрості, відомий своєю мінливістю і схильністю до злочинів і зради.",
+    "aliases": ["Trickster", "Shape-shifter", "Sly One"],
+    "images": ["loki1.jpg", "loki2.jpg"],
+    "tags": ["Боги", "Обман", "Мінливість"]
+  },
+  {
+    "name": "Фрейя",
+    "name_original": "Freyja",
+    "name_english": "Freyja",
+    "description": "Богиня любові, краси і війни, сестра Фрейра, відома своєю неймовірною красою та магічними здібностями.",
+    "aliases": ["Vanadis", "Gefn", "Syr"],
+    "images": ["freyja1.jpg", "freyja2.jpg"],
+    "tags": ["Богині", "Любов", "Магія"]
+  },
+  {
+    "name": "Фрейр",
+    "name_original": "Freyr",
+    "name_english": "Freyr",
+    "description": "Бог родючості, багатства і миру, брат Фрейї, володар світлих ельфів і родючих земель.",
+    "aliases": ["Yngvi", "Fróði"],
+    "images": ["freyr1.jpg", "freyr2.jpg"],
+    "tags": ["Боги", "Родючість", "Мир"]
+  },
+  {
+    "name": "Хеймдалль",
+    "name_original": "Heimdallr",
+    "name_english": "Heimdall",
+    "description": "Вартовий богів, що стоїть на сторожі Бівресту, веселкового мосту, який з'єднує Асгард і Мідгард.",
+    "aliases": ["Rig", "White God", "Golden Teeth"],
+    "images": ["heimdall1.jpg", "heimdall2.jpg"],
+    "tags": ["Боги", "Вартовий", "Асгард"]
+  },
+  {
+    "name": "Бальдр",
+    "name_original": "Baldr",
+    "name_english": "Baldr",
+    "description": "Бог світла, радості і чистоти, син Одіна і Фрігг, відомий своєю красою і добротою.",
+    "aliases": ["Bright", "Shining One"],
+    "images": ["baldr1.jpg", "baldr2.jpg"],
+    "tags": ["Боги", "Світло", "Радість"]
+  },
+  {
+    "name": "Тюр",
+    "name_original": "Týr",
+    "name_english": "Tyr",
+    "description": "Бог війни і справедливості, відомий своєю хоробрістю і жертовністю, один з найстаріших богів Асгарду.",
+    "aliases": ["Tiwaz", "Leavings of the Wolf"],
+    "images": ["tyr1.jpg", "tyr2.jpg"],
+    "tags": ["Боги", "Війна", "Справедливість"]
+  },
+  {
+    "name": "Фрігг",
+    "name_original": "Frigg",
+    "name_english": "Frigg",
+    "description": "Богиня шлюбу, материнства і домашнього вогнища, дружина Одіна, мати Бальдра.",
+    "aliases": ["Frigga", "Frea"],
+    "images": ["frigg1.jpg", "frigg2.jpg"],
+    "tags": ["Богині", "Шлюб", "Материнство"]
+  },
+  {
+    "name": "Сіф",
+    "name_original": "Sif",
+    "name_english": "Sif",
+    "description": "Богиня родючості і землеробства, дружина Тора, відома своїм золотим волоссям.",
+    "aliases": ["Golden Hair", "Fertile One"],
+    "images": ["sif1.jpg", "sif2.jpg"],
+    "tags": ["Богині", "Родючість", "Землеробство"]
+  },
+  {
+    "name": "Йормунганд",
+    "name_original": "Jörmungandr",
+    "name_english": "Jörmungandr",
+    "description": "Світовий змій, один з дітей Локі, що оточує Мідгард і тримає хвіст у роті.",
+    "aliases": ["Midgard Serpent", "World Serpent"],
+    "images": ["jormungandr1.jpg", "jormungandr2.jpg"],
+    "tags": ["Чудовиська", "Змії", "Мідгард"]
+  },
+  {
+    "name": "Фенрір",
+    "name_original": "Fenrir",
+    "name_english": "Fenrir",
+    "description": "Гігантський вовк, син Локі, пророкований убивця Одіна під час Рагнарока.",
+    "aliases": ["Fenris Wolf", "Fenrisúlfr"],
+    "images": ["fenrir1.jpg", "fenrir2.jpg"],
+    "tags": ["Чудовиська", "Вовки", "Рагнарок"]
+  },
+  {
+    "name": "Гел",
+    "name_original": "Hel",
+    "name_english": "Hel",
+    "description": "Богиня смерті і підземного світу, дочка Локі, правителька царства мертвих.",
+    "aliases": ["Goddess of Death", "Ruler of Helheim"],
+    "images": ["hel1.jpg", "hel2.jpg"],
+    "tags": ["Богині", "Смерть", "Підземний світ"]
+  },
+  {
+    "name": "Беовульф",
+    "name_original": "Bēowulf",
+    "name_english": "Beowulf",
+    "description": "Герой староанглійського епосу, який бореться з чудовиськом Гренделем.",
+    "aliases": ["Beowulf"],
+    "images": ["beowulf1.jpg", "beowulf2.jpg"],
+    "tags": ["Герої", "Битви", "Відвага"]
+  },
+  {
+    "name": "Грендель",
+    "name_original": "Grendel",
+    "name_english": "Grendel",
+    "description": "Чудовисько, з яким боровся Беовульф у староанглійському епосі.",
+    "aliases": ["Grendel"],
+    "images": ["grendel1.jpg", "grendel2.jpg"],
+    "tags": ["Чудовиська", "Битви", "Зло"]
+  },
+  {
+    "name": "Хротгар",
+    "name_original": "Hrōðgār",
+    "name_english": "Hrothgar",
+    "description": "Король данів, який правив під час подій у староанглійському епосі Беовульф.",
+    "aliases": ["Hrothgar"],
+    "images": ["hrothgar1.jpg", "hrothgar2.jpg"],
+    "tags": ["Королі", "Правителі", "Сага"]
+  },
+  {
+    "name": "Хільдебранд",
+    "name_original": "Hildebrand",
+    "name_english": "Hildebrand",
+    "description": "Герой старонімецької епічної поеми, один з головних персонажів Пісні про Хільдебрандта.",
+    "aliases": ["Hildebrand"],
+    "images": ["hildebrand1.jpg", "hildebrand2.jpg"],
+    "tags": ["Герої", "Битви", "Відвага"]
+  },
+  {
+    "name": "Хадубранд",
+    "name_original": "Hadubrand",
+    "name_english": "Hadubrand",
+    "description": "Син Хільдебрандта у старонімецькій епічній поемі Пісня про Хільдебрандта.",
+    "aliases": ["Hadubrand"],
+    "images": ["hadubrand1.jpg", "hadubrand2.jpg"],
+    "tags": ["Герої", "Битви", "Сім'я"]
+  },
+  {
+    "name": "Сігурд",
+    "name_original": "Sigurðr",
+    "name_english": "Sigurd",
+    "description": "Герой скандинавських саг, відомий своїми подвигами і боротьбою з драконом Фафніром.",
+    "aliases": ["Sigurd"],
+    "images": ["sigurd1.jpg", "sigurd2.jpg"],
+    "tags": ["Герої", "Битви", "Дракони"]
+  },
+  {
+    "name": "Брюнхільд",
+    "name_original": "Brynhildr",
+    "name_english": "Brynhild",
+    "description": "Валькірія у скандинавській міфології, героїня саги про Вельсунгів.",
+    "aliases": ["Brynhild"],
+    "images": ["brynhild1.jpg", "brynhild2.jpg"],
+    "tags": ["Валькірії", "Битви", "Магія"]
+  },
+  {
+    "name": "Гуннар",
+    "name_original": "Gunnarr",
+    "name_english": "Gunnar",
+    "description": "Король бургундців у сазі про Вельсунгів, друг і союзник Сігурда.",
+    "aliases": ["Gunnar"],
+    "images": ["gunnar1.jpg", "gunnar2.jpg"],
+    "tags": ["Королі", "Битви", "Союзники"]
+  },
+  {
+    "name": "Гретір",
+    "name_original": "Grettir",
+    "name_english": "Grettir",
+    "description": "Герой саги про Гретіра, відомий своїми подвигами та боротьбою з чудовиськами.",
+    "aliases": ["Grettir"],
+    "images": ["grettir1.jpg", "grettir2.jpg"],
+    "tags": ["Герої", "Битви", "Чудовиська"]
+  },
+  {
+    "name": "Асмунд",
+    "name_original": "Ásmundr",
+    "name_english": "Asmund",
+    "description": "Батько Гретіра у сазі про Гретіра.",
+    "aliases": ["Asmund"],
+    "images": ["asmund1.jpg", "asmund2.jpg"],
+    "tags": ["Сім'я", "Батьки", "Сага"]
+  },
+  {
+    "name": "Торбйорн",
+    "name_original": "Þorbjǫrn",
+    "name_english": "Thorbjorn",
+    "description": "Чудовисько, з яким боровся Гретір у сазі про Гретіра.",
+    "aliases": ["Thorbjorn"],
+    "images": ["thorbjorn1.jpg", "thorbjorn2.jpg"],
+    "tags": ["Чудовиська", "Битви", "Зло"]
+  },
+  {
+    "name": "Егіл",
+    "name_original": "Egil",
+    "name_english": "Egil",
+    "description": "Герой саги про Егіл Скалагримсона, відомий своїми подвигами та поезією.",
+    "aliases": ["Egil"],
+    "images": ["egil1.jpg", "egil2.jpg"],
+    "tags": ["Герої", "Битви", "Поезія"]
+  },
+  {
+    "name": "Скалагрим",
+    "name_original": "Skallagrímr",
+    "name_english": "Skallagrim",
+    "description": "Батько Егіл Скалагримсона, відомий своїми подвигами та міццю.",
+    "aliases": ["Skallagrim"],
+    "images": ["skallagrim1.jpg", "skallagrim2.jpg"],
+    "tags": ["Герої", "Битви", "Сім'я"]
+  },
+  {
+    "name": "Торольф",
+    "name_original": "Þórólfr",
+    "name_english": "Thorolf",
+    "description": "Брат Егіл Скалагримсона, відомий своїми подвигами та вірністю.",
+    "aliases": ["Thorolf"],
+    "images": ["thorolf1.jpg", "thorolf2.jpg"],
+    "tags": ["Герої", "Битви", "Вірність"]
+  },
+    {
+      "name": "Harald",
+      "name_original": "Haraldr",
+      "name_english": "Harald",
+      "description": "Один з найвідоміших королів Норвегії, відомий своїми завоюваннями та об'єднанням Норвегії.",
+      "aliases": ["Harald Fairhair"],
+      "images": ["harald1.jpg", "harald2.jpg"],
+      "tags": ["Королі", "Завоювання", "Об'єднання"]
+    },
+    {
+      "name": "Olaf",
+      "name_original": "Ólafr",
+      "name_english": "Olaf",
+      "description": "Норвезький король і святий, відомий своїм правлінням та спробами поширення християнства в Норвегії.",
+      "aliases": ["Olaf the Saint"],
+      "images": ["olaf1.jpg", "olaf2.jpg"],
+      "tags": ["Королі", "Святі", "Християнство"]
+    },
+    {
+      "name": "Erik",
+      "name_original": "Eiríkr",
+      "name_english": "Erik",
+      "description": "Засновник поселень в Гренландії, відомий як Ерик Рудий.",
+      "aliases": ["Erik the Red"],
+      "images": ["erik1.jpg", "erik2.jpg"],
+      "tags": ["Дослідники", "Гренландія", "Поселення"]
+    },
+    {
+      "name": "Leif",
+      "name_original": "Leifr",
+      "name_english": "Leif",
+      "description": "Син Еріка Рудого, відомий як перший європеєць, що досяг берегів Північної Америки.",
+      "aliases": ["Leif Erikson"],
+      "images": ["leif1.jpg", "leif2.jpg"],
+      "tags": ["Дослідники", "Північна Америка", "Вікінги"]
+    },
+    {
+      "name": "Thorfinn",
+      "name_original": "Þorfinnr",
+      "name_english": "Thorfinn",
+      "description": "Норвезький дослідник, який здійснив подорожі до Гренландії та Північної Америки.",
+      "aliases": ["Thorfinn Karlsefni"],
+      "images": ["thorfinn1.jpg", "thorfinn2.jpg"],
+      "tags": ["Дослідники", "Гренландія", "Північна Америка"]
+    },
+    {
+      "name": "Gisli",
+      "name_original": "Gísli",
+      "name_english": "Gisli",
+      "description": "Герой саги про Гіслур Торгрімссона, відомий своїми подвигами та вигнанням.",
+      "aliases": ["Gisli Sursson"],
+      "images": ["gisli1.jpg", "gisli2.jpg"],
+      "tags": ["Герої", "Вигнання", "Конфлікти"]
+    },
+    {
+      "name": "Thorgrim",
+      "name_original": "Þorgrímr",
+      "name_english": "Thorgrim",
+      "description": "Персонаж саги про Гіслур Торгрімссона, брат Гіслур та важливий учасник конфліктів.",
+      "aliases": ["Thorgrim Sursson"],
+      "images": ["thorgrim1.jpg", "thorgrim2.jpg"],
+      "tags": ["Герої", "Конфлікти", "Брат"]
+    },
+    {
+      "name": "Thorkel",
+      "name_original": "Þorkell",
+      "name_english": "Thorkel",
+      "description": "Персонаж саги про Гіслур Торгрімссона, брат Гіслур та важливий учасник конфліктів.",
+      "aliases": ["Thorkel Sursson"],
+      "images": ["thorkel1.jpg", "thorkel2.jpg"],
+      "tags": ["Герої", "Конфлікти", "Брат"]
+    },
+  {
+    "name": "Fafnir",
+    "name_original": "Fáfnir",
+    "name_english": "Fafnir",
+    "description": "Дракон зі скандинавської міфології, відомий своїм скарбом та ворожнечею з героєм Сігурдом.",
+    "aliases": ["Fafnir the Dragon"],
+    "images": ["fafnir1.jpg", "fafnir2.jpg"],
+    "tags": ["Чудовиська", "Дракони", "Скарби"]
+  },
+  {
+    "name": "Njáll",
+    "name_original": "Njáll",
+    "name_english": "Njáll",
+    "description": "Головний персонаж саги про Ньяла, відомий своїми мудрістю та юридичними знаннями.",
+    "aliases": ["Njáll the Wise"],
+    "images": ["njall1.jpg", "njall2.jpg"],
+    "tags": ["Герої", "Мудрість", "Юридичні знання"]
+  }
+  ]
