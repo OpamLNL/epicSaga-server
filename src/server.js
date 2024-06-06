@@ -44,7 +44,7 @@ const ipAddress = process.env.DB_IP;
 const server = http.createServer(app);
 
 server.listen(PORT, ipAddress, () => {
-    console.log(`Server is running on port ${PORT}`);
+    console.log(`Epic Server is running on port ${PORT}`);
 });
 
 // Обробка закриття сервера
