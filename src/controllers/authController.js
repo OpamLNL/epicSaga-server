@@ -10,7 +10,10 @@ exports.signIn = async (req, res) => {
 
 
     try {
+
+        console.log(email);
         const user = await getUserByEmail(email);
+
 
         if (!user) {
             return res.status(401).json({ message: "Невірний email або пароль" });
