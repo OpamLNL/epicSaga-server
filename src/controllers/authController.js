@@ -7,11 +7,11 @@ exports.signIn = async (req, res) => {
     const { email, password } = req.body;
     console.log('req');
     console.log(req.body);
-
+    console.log(email);
 
     try {
 
-        console.log(email);
+
         const user = await getUserByEmail(email);
 
 
