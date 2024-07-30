@@ -9,8 +9,13 @@ const morgan = require("morgan");
 const { closePool } = require("./config/database");
 
 // Middleware для обробки CORS change 2
+const allowedOrigins = ['https://epic-saga.vercel.app', 'https://epic-saga-git-master-epicsagas-projects.vercel.app'];
+
 app.use((req, res, next) => {
-    res.setHeader('Access-Control-Allow-Origin', 'https://epic-saga-git-master-epicsagas-projects.vercel.app');
+    const origin = req.headers.origin;
+    if (allowedOrigins.includes(origin)) {
+        res.setHeader('Access-Control-Allow-Origin', origin);
+    }
     res.setHeader('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE, OPTIONS');
     res.setHeader('Access-Control-Allow-Headers', 'Content-Type, Authorization');
     if (req.method === 'OPTIONS') {
@@ -18,6 +23,7 @@ app.use((req, res, next) => {
     }
     next();
 });
+
 
 // path to public images
 const relativeImagesPath = path.resolve(__dirname, "..", "public", "images");
